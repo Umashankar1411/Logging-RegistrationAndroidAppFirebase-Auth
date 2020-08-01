@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987318112245",
+    "firebase_url": "https://blogger-shankar-login.firebaseio.com",
+    "project_id": "blogger-shankar-login",
+    "storage_bucket": "blogger-shankar-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987318112245:android:2b438a4df5ac8cabf81abc",
+        "android_client_info": {
+          "package_name": "com.ugt.bloggerhnkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987318112245-hjgnkr84r29742tu91p11tamgaabmh8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUrEya6MjKzbJ2Q9mQ1_p8yphlQdGWylU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987318112245-hjgnkr84r29742tu91p11tamgaabmh8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
